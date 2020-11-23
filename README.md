@@ -18,6 +18,8 @@ PING ✅
 
 OWNER COMMAND ✅
 
+[Tapi BOONG YAHH😂]
+
 
    
   FITUR BARU?
