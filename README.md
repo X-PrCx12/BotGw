@@ -42,26 +42,24 @@ Github : https://github.com/X-PrCx12
 
 
 Program : Node.js
+
+
 ////////////////////////////////////
 
-Thx To!
+
+
+# Thx To!
 
 
 
 ALLAH SWT
 
-
 EMAK BAPAK :")
-
 
 Termux-Whatsapp-Bot
 
-
 ArugaZ
-
 
 Bintang 73 (Bots4rz)
 
-
 MhankBarBar
-
